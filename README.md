@@ -1,5 +1,5 @@
-<h1 align="center">Hello👋, I'm Diksha Sharma</h1>
-<h3 align="center">I am a software developer from India. I'm B.Tech CSE 2nd year student at NSUT, New Delhi. I like to code and develop things :)</h3>
+<h1 align="center">Hello👋, I'm Vaibhav Pal</h1>
+<h3 align="center">I am a software developer from India. I'm B.Tech CSE 2nd year student at GLAU, Mathura. I like to code and develop things :)</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coolcoderd&label=Profile%20views&color=0e75b6&style=flat" alt="coolcoderd" /> </p>
