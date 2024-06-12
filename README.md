@@ -6,19 +6,19 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **JAVA**
 
-- 💬 Ask me about **DSA**
+- 💬 Ask me about **JAVA**
 
 - ⚡ Fun fact **I am funny**
 
-- 📫 How to reach me **dikshasharmahm@gmail.com**
+- 📫 How to reach me **vaibhavpal.info@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/diksha sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diksha sharma" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/123diksha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="123diksha" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/dikshashfmm1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dikshashfmm1" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vaibhavpal7549" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhavpal7549" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/vaibhavpal7549" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaibhavpal7549" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/vaibhavpal7549/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vaibhavpal7549" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
