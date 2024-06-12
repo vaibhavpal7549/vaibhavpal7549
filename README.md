@@ -2,7 +2,7 @@
 <h3 align="center">I am a software developer from India. I'm B.Tech CSE 2nd year student at GLAU, Mathura. I like to code and develop things :)</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/605032/screenshots/3196252/openwork-1-d.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coolcoderd&label=Profile%20views&color=0e75b6&style=flat" alt="coolcoderd" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavpal7549&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavpal7549" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
