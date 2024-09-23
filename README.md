@@ -1,16 +1,16 @@
-<h1 align="center">Hello👋, I'm Diksha Sharma</h1>
-<h3 align="center">I am a software developer from India. I'm B.Tech CSE 3rd year student at NSUT, New Delhi. I like to code and develop things :)</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
+<h1 align="center">Hello👋, I'm Vaibhav Pal</h1>
+<h3 align="center">I am a software developer from India. I'm B.Tech CSE 3rd year student at GLAU, Mathura. I like to code and develop things :)</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/605032/screenshots/3196252/openwork-1-d.gif">
 
 # 💫 About Me:
 ✨ I’m currently working on MERN and Machine Learning <br>💫 I’m looking to collaborate on full stack projects<br>💬 Ask me about DSA <br>
 
-📫 How to reach me **dikshasharmahm@gmail.com**
+📫 How to reach me **vaibhavpal.info@gmail.com**
 
 
 
 # 🌐 Get In Touch:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diksha-sharma-1781b8253/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavpal7549/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF4301.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://dikshaportfolio98.netlify.app/)
 
 
@@ -31,9 +31,9 @@
 
 # 📊 GitHub Stats:
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=coolCoderD&theme=omni&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 32%;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coolCoderD&theme=omni&hide_border=false" alt="GitHub Streak" style="width: 32%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coolCoderD&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 32%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavpal7549&theme=omni&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 32%;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavpal7549&theme=omni&hide_border=false" alt="GitHub Streak" style="width: 32%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavpal7549&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 32%;">
 </div>
 
 
