@@ -42,7 +42,7 @@
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavpal7549&theme=dark" alt="vaibhavpal" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jigar-sable&theme=dark" alt="jigar-sable" /></p>
     
 </div>
 
