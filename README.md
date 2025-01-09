@@ -33,11 +33,17 @@
 </div>
 
 
-# 📊 GitHub Stats:
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavpal7549&theme=omni&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 32%;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavpal7549&theme=omni&hide_border=false" alt="GitHub Streak" style="width: 32%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavpal7549&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 32%;">
+<h3 align="left">📊 GitHub Activity:</h3>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=vaibhavpal7549&show_icons=true&theme=dark&locale=en" alt="vaibhavpal" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavpal7549&show_icons=true&theme=dark&locale=en&layout=compact" alt="vaibhavpal" /></td>
+  </tr>
+</table>
+
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavpal7549&theme=dark" alt="vaibhavpal" /></p>
+    
 </div>
 
 
