@@ -11,7 +11,7 @@
 
 📫 How to reach me **vaibhavpal.info@gmail.com**
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavpal7549&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavpal7549" /> </p>
 
 # 🌐 Get In Touch:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavpal7549/)
