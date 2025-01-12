@@ -6,12 +6,19 @@
 <h3 align="center">I am a software developer from India. I'm B.Tech CSE 2nd year student at GLAU, Mathura. I like to code and develop things :)</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/605032/screenshots/3196252/openwork-1-d.gif">
 
-# 💫 About Me:
-✨ I’m currently working on MERN and Machine Learning <br>💫 I’m looking to collaborate on full stack projects<br>💬 Ask me about DSA <br>
+# 👩‍💻 About Me:
 
-📫 How to reach me **vaibhavpal.info@gmail.com**
+- 🌱 I’m Currently learning Mern Stack & DSA
+- 💫 I’m looking to collaborate on full stack projects
+- 📫 How to reach me: **[shreyapramanik909@gmail.com](mailto:vaibhavpal.info@gmail.com?subject=[GitHub]%20)**
+- 💬 Ask me about **anything**, always ready to help.
+- 🌐 Porfolio - **[shreya.P](https://vaibhavpal.vercel.app/)**
+- ⚡ Fun fact: I'm a digital creator on Instagram
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavpal7549&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavpal7549" /> </p>
+
+
+<br/>
 
 # 🌐 Get In Touch:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavpal7549/)
