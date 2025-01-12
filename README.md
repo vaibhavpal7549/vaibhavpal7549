@@ -7,7 +7,7 @@
 
 # 👩‍💻 About Me:
 
-<img align="right" alt="Coding" width="20%" src="https://cdn.dribbble.com/users/605032/screenshots/3196252/openwork-1-d.gif">
+<img align="right" alt="Coding" width="40%" src="https://cdn.dribbble.com/users/605032/screenshots/3196252/openwork-1-d.gif">
 
 - 🌱 I’m Currently learning Mern Stack & DSA
 - 💫 I’m looking to collaborate on full stack projects
@@ -17,7 +17,6 @@
 - ⚡ Fun fact: I'm a digital creator on Instagram
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavpal7549&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavpal7549" /> </p>
-
 
 <br/>
 
