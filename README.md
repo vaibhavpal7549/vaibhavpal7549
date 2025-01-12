@@ -53,7 +53,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=vaibhavpal7549&icon=8&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">  
+<div align="center"> 
+    
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vaibhavpal7549&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
@@ -64,19 +65,19 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">Connect with me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/shreya-pramanik-530366220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shreya Linkdin" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/shreyapramanik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shreyapramanik" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/shreyapramanik47/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shreyapramanik47" height="30" width="40" /></a>
-<a href="https://www.instagram.com/shreyapramanik47/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shreyapramanik_47" height="30" width="40" /></a>
-<a href="https://github.com/ShreyaPramanik47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="shreyapramanik_47" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vaibhavpal7549" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shreya Linkdin" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/vaibhavpal7549/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shreyapramanik" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/vaibhavpal7549/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shreyapramanik47" height="30" width="40" /></a>
+<a href="https://www.instagram.com/vaibhavpal7549/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shreyapramanik_47" height="30" width="40" /></a>
+<a href="https://github.com/vaibhavpal7549" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="shreyapramanik_47" height="30" width="40" /></a>
 </p>
 
 </div>
 
-## 📊 Metrics
-<div align="center">
+<!--## 📊 Metrics
+<!--<div align="center">
 
-![Metrics](https://github.com/AP-XD/AP-XD/blob/main/github-metrics.svg)</div>
+<!--![Metrics](https://github.com/AP-XD/AP-XD/blob/main/github-metrics.svg)</div>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
