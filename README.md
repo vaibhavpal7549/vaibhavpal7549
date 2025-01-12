@@ -10,7 +10,7 @@
 
 - 🌱 I’m Currently learning Mern Stack & DSA
 - 💫 I’m looking to collaborate on full stack projects
-- 📫 How to reach me: **[shreyapramanik909@gmail.com](mailto:vaibhavpal.info@gmail.com?subject=[GitHub]%20)**
+- 📫 How to reach me: **[vaibhavpal.info@gmail.com](mailto:vaibhavpal.info@gmail.com?subject=[GitHub]%20)**
 - 💬 Ask me about **anything**, always ready to help.
 - 🌐 Porfolio - **[shreya.P](https://vaibhavpal.vercel.app/)**
 - ⚡ Fun fact: I'm a digital creator on Instagram
