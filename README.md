@@ -12,7 +12,7 @@
 - 💫 I’m looking to collaborate on full stack projects
 - 📫 How to reach me: **[vaibhavpal.info@gmail.com](mailto:vaibhavpal.info@gmail.com?subject=[GitHub]%20)**
 - 💬 Ask me about **anything**, always ready to help.
-- 🌐 Porfolio - **[shreya.P](https://vaibhavpal.vercel.app/)**
+- 🌐 Porfolio - **[vaibhav.P](https://vaibhavpal.vercel.app/)**
 - ⚡ Fun fact: I'm a digital creator on Instagram
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavpal7549&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavpal7549" /> </p>
