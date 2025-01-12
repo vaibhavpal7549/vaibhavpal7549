@@ -4,7 +4,7 @@
 
 <h1 align="center">Hello👋, I'm Vaibhav Pal</h1>
 <h3 align="center">I am a software developer from India. I'm B.Tech CSE 2nd year student at GLAU, Mathura. I like to code and develop things :)</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/605032/screenshots/3196252/openwork-1-d.gif">
+<img align="right" alt="Coding" width="20%" src="https://cdn.dribbble.com/users/605032/screenshots/3196252/openwork-1-d.gif">
 
 # 👩‍💻 About Me:
 
