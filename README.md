@@ -77,10 +77,6 @@
     
 </div>
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 <!--[![](https://visitcount.itsvg.in/api?id=vaibhavpal7549&icon=8&color=0)](https://visitcount.itsvg.in)-->
 
@@ -90,6 +86,9 @@
 ![](https://github-contributor-stats.vercel.app/api?username=vaibhavpal7549&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <div align="center">
 
