@@ -73,12 +73,6 @@
 </div>
 
 <h3 align="left">📊 GitHub Activity:</h3>
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=vaibhavpal7549&show_icons=true&theme=dark&locale=en" alt="vaibhavpal" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavpal7549&show_icons=true&theme=dark&locale=en&layout=compact" alt="vaibhavpal" /></td>
-  </tr>
-</table>
 
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavpal7549&theme=dark" alt="vaibhavpal" /></p>
