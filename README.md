@@ -72,20 +72,25 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaibhavpal7549&theme=2077" height="180em" />
 </div>
 
+<!--
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavpal7549&theme=dark" alt="vaibhavpal" /></p>
     
 </div>
 
+-->
+
 ---
 <!--[![](https://visitcount.itsvg.in/api?id=vaibhavpal7549&icon=8&color=0)](https://visitcount.itsvg.in)-->
 
+<!--
 <div align="center"> 
     
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vaibhavpal7549&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
+-->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
