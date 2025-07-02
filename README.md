@@ -60,9 +60,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vaibhavpal7549&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/vaibhavpal7549">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vaibhavpal7549&theme=2077" height="180em" />
@@ -80,7 +80,6 @@
 
 -->
 
----
 <!--[![](https://visitcount.itsvg.in/api?id=vaibhavpal7549&icon=8&color=0)](https://visitcount.itsvg.in)-->
 
 <!--
@@ -91,6 +90,7 @@
 
 </div>
 -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
