@@ -72,8 +72,6 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaibhavpal7549&theme=2077" height="180em" />
 </div>
 
-<h3 align="left">📊 GitHub Activity:</h3>
-
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavpal7549&theme=dark" alt="vaibhavpal" /></p>
     
