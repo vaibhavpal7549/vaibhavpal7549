@@ -51,7 +51,7 @@
 # My Contributions vs 🐍
 <div>
   <div align = "center">
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/avneets2103/avneets2103/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/vaibhavpal7549/vaibhavpal7549/output/github-contribution-grid-snake-dark.svg" />
   </div>
   <br/>
 </div>
@@ -79,12 +79,10 @@
 [![Codolio](https://img.shields.io/badge/Codolio-portfolio-0d1529?style=flat-square)](https://codolio.com/profile/vaibhavpal7544)
 
 </div>
-
 <!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vaibhavpal7549&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 -->
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">Statistics</h3>
 <div align="center">
