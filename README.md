@@ -3,6 +3,22 @@
     <img src="gitartwork.svg" alt="gitartwork">
 </div>
 
+</br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:0d1529,100:0a0f1e&height=180&section=header&text=Vaibhav%20Pal&fontSize=50&fontColor=9CD5FF&animation=fadeIn&fontAlignY=55&desc=cse%20undergrad%20·%20learning%20to%20build%20real%20things&descColor=7ab8e8&descSize=14&descAlignY=75"/>
+
+</div>
+
+<br/>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&pause=2500&color=89D4FF&center=true&vCenter=true&width=480&lines=learning+MERN+%7C+solving+DSA+daily;consistency+over+everything;open+to+internships+%E2%86%92+bangalore+%2F+hyderabad"/>
+</p>
+
+<br/>
+
 <h1 align="center">Hello👋, I'm Vaibhav Pal</h1>
 <h3 align="center">I am a software developer from India. I'm B.Tech CSE 3rd year student at GLAU, Mathura. I like to code and develop things :)</h3>
 
@@ -56,6 +72,13 @@
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/vaibhavpal7549?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
 
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-vaibhavpal7549-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/vaibhavpal7549/)&nbsp;
+[![GFG](https://img.shields.io/badge/GeeksForGeeks-vaibhavpal7549-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/vaibhavpal7549)&nbsp;
+[![Codolio](https://img.shields.io/badge/Codolio-portfolio-0d1529?style=flat-square)](https://codolio.com/profile/vaibhavpal7544)
+
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vaibhavpal7549&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -90,6 +113,29 @@
 
 </div>
 -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### ✦ stats
+<div align="center">
+
+<img height="158" src="https://github-readme-stats.vercel.app/api?username=vaibhavpal7549&show_icons=true&hide_border=true&bg_color=0a0f1e&title_color=9CD5FF&text_color=7ab8e8&icon_color=89D4FF&count_private=true&include_all_commits=true"/>
+&nbsp;
+<img height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavpal7549&layout=compact&hide_border=true&bg_color=0a0f1e&title_color=9CD5FF&text_color=7ab8e8&langs_count=6"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavpal7549&hide_border=true&background=0a0f1e&ring=89D4FF&fire=89D4FF&currStreakLabel=9CD5FF&sideLabels=7ab8e8&dates=4a6a8a&currStreakNum=ffffff&sideNums=ffffff"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavpal7549&bg_color=0a0f1e&color=89D4FF&line=89D4FF&point=9CD5FF&area=true&area_color=0d1529&hide_border=true"/>
+
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### ✍️ Random Dev Quote
