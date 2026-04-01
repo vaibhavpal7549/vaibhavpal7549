@@ -17,6 +17,20 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&pause=2500&color=89D4FF&center=true&vCenter=true&width=480&lines=learning+MERN+%7C+solving+DSA+daily;consistency+over+everything;open+to+internships+%E2%86%92+bangalore+%2F+hyderabad"/>
 </p>
 
+<div align="center">
+
+![](https://img.shields.io/badge/CSE_Undergrad-0d1529?style=flat-square&color=0d1529&logoColor=9CD5FF)
+&nbsp;
+![](https://img.shields.io/badge/MERN_Stack-0d1529?style=flat-square&color=0d1529&logoColor=9CD5FF)
+&nbsp;
+![](https://img.shields.io/badge/DSA_in_Java-0d1529?style=flat-square&color=0d1529&logoColor=9CD5FF)
+&nbsp;
+![](https://img.shields.io/badge/Open_to_Internships-89D4FF?style=flat-square&labelColor=0d1529&color=89D4FF&label=Open+to+Internships)
+
+</div>
+
+---
+
 <br/>
 
 <h1 align="center">Hello👋, I'm Vaibhav Pal</h1>
