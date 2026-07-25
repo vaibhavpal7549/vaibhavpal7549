@@ -34,17 +34,17 @@
 <br/>
 
 <h1 align="center">Hello👋, I'm Vaibhav Pal</h1>
-<h3 align="center">I am a software developer from India. I'm B.Tech CSE 3rd year student at GLAU, Mathura. I like to code and develop things :)</h3>
+<h3 align="center">I am a software developer from India. I'm B.Tech CSE 4th year student at GLAU, Mathura. I like to code and develop things :)</h3>
 
 # 👩‍💻 About Me:
 
 <img align="right" alt="Coding" width="40%" src="https://cdn.dribbble.com/users/605032/screenshots/3196252/openwork-1-d.gif">
 
-- 🌱 I’m Currently learning Mern Stack & DSA
+- 🌱 I’m a Full Stack Engineer
 - 💫 I’m looking to collaborate on full stack projects
 - 📫 How to reach me: **[vaibhavpal.info@gmail.com](mailto:vaibhavpal.info@gmail.com?subject=[GitHub]%20)**
 - 💬 Ask me about **anything**, always ready to help.
-- 🌐 Porfolio - **[vaibhav.P](https://vaibhavpal.vercel.app/)**
+- 🌐 Porfolio - **[vaibhav.P](https://www.vaibhavpal.tech)**
 - ⚡ Fun fact: I'm a digital creator on Instagram
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavpal7549&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavpal7549" /> </p>
@@ -53,7 +53,7 @@
 
 # 🌐 Get In Touch:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavpal7549/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF4301.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://vaibhavpal.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF4301.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://www.vaibhavpal.tech)
 
 
 
@@ -76,21 +76,21 @@
 
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
-  <a href="https://leetcode.com/vaibhavpal7549/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/vaibhavpal7549/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/vaibhavpal7549/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/vaibhavpal7549/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/vaibhavpal7550/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/vaibhavpal7550/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/vaibhavpal7550/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/vaibhavpal7550/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
 </p>
 <p align="center">
   
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/vaibhavpal7549?theme=dark&font=Nunito&ext=heatmap" />  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/vaibhavpal7550?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-vaibhavpal7549-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/vaibhavpal7549/)&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-vaibhavpal7550-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/vaibhavpal7550/)&nbsp;
 [![GFG](https://img.shields.io/badge/GeeksForGeeks-vaibhavpal7549-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/vaibhavpal7549)&nbsp;
-[![Codolio](https://img.shields.io/badge/Codolio-portfolio-0d1529?style=flat-square)](https://codolio.com/profile/vaibhavpal7544)
+[![Codolio](https://img.shields.io/badge/Codolio-portfolio-0d1529?style=flat-square)](https://codolio.com/profile/vaibhavpal7549)
 
 </div>
 <!--
