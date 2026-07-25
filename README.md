@@ -160,9 +160,9 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/vaibhavpal7549" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shreya Linkdin" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/vaibhavpal7549/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shreyapramanik" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/vaibhavpal7550/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shreyapramanik" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/vaibhavpal7549/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shreyapramanik47" height="30" width="40" /></a>
-<a href="https://www.instagram.com/vaibhavpal7549/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shreyapramanik_47" height="30" width="40" /></a>
+<a href="https://www.instagram.com/vaibhav.pal.7549/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shreyapramanik_47" height="30" width="40" /></a>
 <a href="https://github.com/vaibhavpal7549" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="shreyapramanik_47" height="30" width="40" /></a>
 </p>
 
